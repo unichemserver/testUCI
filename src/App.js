@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React From Sidoarjo
+          Learn React Surabaya
         </a>
       </header>
     </div>
